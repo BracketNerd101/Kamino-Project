@@ -1,0 +1,16 @@
+body {
+  min-height: 1200px; }
+
+.dark-introduction {
+  background-image: url("../img/now_imac.png");
+  background-size: cover;
+  margin-top: 10rem;
+  padding-top: 30rem;
+  margin-bottom: 10rem;
+  height: 55rem; }
+
+.jumbo_container {
+  height: 100vh;
+  background-color: #000000; }
+
+/*# sourceMappingURL=main.css.map */
