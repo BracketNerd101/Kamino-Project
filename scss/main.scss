@@ -10,12 +10,48 @@ body {
 
 background-image: url('../img/now_imac.png');
 background-size: cover;
-margin-top: 10rem;
+margin-top: 5rem;
 padding-top: 30rem;
 margin-bottom: 10rem;
 height: 55rem;
 
 
+}
+
+.phone_background {
+    background-size: cover;
+    background-image: url('../img/desk_one.jpg');
+    height: 40rem;
+    width: auto;
+
+
+
+}
+
+.lense_background {
+    background-size: cover;
+    background-image: url('../img/lense.jpg');
+    height: 40rem;
+    width: auto;
+
+
+    
+}
+
+.code_background {
+    background-size: cover;
+    background-image: url('../img/code_two.jpg');
+    height: 40rem;
+    width: auto;
+
+
+    
+}
+
+
+.jumbotron {
+
+    margin-bottom: 0px;
 }
 
 .jumbo_container {
@@ -25,4 +61,33 @@ background-color: #000000;
 
 
 
+}
+
+.title_margin_style {
+
+    padding-top: 3rem;
+    
+}
+
+.circle_img_style {
+
+    width: auto;
+    height:10rem;
+}
+
+.small_margin_style_top {
+
+    padding-top: 5rem;
+}
+
+.small_margin_style {
+
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.lg_margin_style {
+
+    padding-top: 9rem;
+    padding-bottom: 9rem;
 }
