@@ -19,33 +19,32 @@ height: 55rem;
 }
 
 .phone_background {
+
+
     background-size: cover;
     background-image: url('../img/desk_one.jpg');
     height: 40rem;
-    width: auto;
-
-
-
+    width: 100%;
 }
 
 .lense_background {
+
+
     background-size: cover;
     background-image: url('../img/lense.jpg');
     height: 40rem;
-    width: auto;
+    width: 100%;
 
-
-    
 }
 
 .code_background {
+
+
     background-size: cover;
     background-image: url('../img/code_two.jpg');
     height: 40rem;
-    width: auto;
+    width: 100%;
 
-
-    
 }
 
 
@@ -90,4 +89,9 @@ background-color: #000000;
 
     padding-top: 9rem;
     padding-bottom: 9rem;
+}
+
+.subject_margin {
+
+    margin-left: 5rem;
 }
