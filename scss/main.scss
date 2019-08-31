@@ -18,6 +18,12 @@ height: 55rem;
 
 }
 
+.nav_bg_style {
+
+    background-color: #000000;
+    box-shadow: 2px 2px solid #fafafa;
+}
+
 .phone_background {
 
 
@@ -62,6 +68,8 @@ background-color: #000000;
 
 }
 
+
+
 .title_margin_style {
 
     padding-top: 3rem;
@@ -77,6 +85,46 @@ background-color: #000000;
 .small_margin_style_top {
 
     padding-top: 5rem;
+}
+.small_margin_top5 {
+
+    margin-top: 5rem;
+}
+
+.small_top_1 {
+
+     margin-top: 1rem;
+
+}
+
+.small_top {
+
+     margin-top: 2rem;
+
+}
+
+.margin_left_2 {
+
+    margin-left: 4rem;
+
+}
+
+.margin_right_2 {
+
+    margin-right: 4rem;
+    
+}
+
+.margin_bottom_1 {
+
+    margin-bottom: 1.5rem;
+    
+}
+
+.margin_bottom_2 {
+
+    margin-bottom: 4rem;
+    
 }
 
 .small_margin_style {
@@ -95,3 +143,10 @@ background-color: #000000;
 
     margin-left: 5rem;
 }
+
+.goal_content_area_bg {
+
+        background-color: #fafafa;
+        box-shadow: 5px 5px solid #f2f2f2;
+
+    }
