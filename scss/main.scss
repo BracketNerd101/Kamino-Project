@@ -15,6 +15,19 @@ padding-top: 30rem;
 margin-bottom: 10rem;
 height: 55rem;
 
+@media (min-width: 400px) { height: 4rem; }
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { height: 10rem; }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { height: 20rem; }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { height: 30rem; }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { height: 50rem; }
+
 
 }
 

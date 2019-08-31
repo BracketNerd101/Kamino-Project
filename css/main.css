@@ -8,6 +8,21 @@ body {
   padding-top: 30rem;
   margin-bottom: 10rem;
   height: 55rem; }
+  @media (min-width: 400px) {
+    .dark-introduction {
+      height: 4rem; } }
+  @media (min-width: 576px) {
+    .dark-introduction {
+      height: 10rem; } }
+  @media (min-width: 768px) {
+    .dark-introduction {
+      height: 20rem; } }
+  @media (min-width: 992px) {
+    .dark-introduction {
+      height: 30rem; } }
+  @media (min-width: 1200px) {
+    .dark-introduction {
+      height: 50rem; } }
 
 .nav_bg_style {
   background-color: #000000;
