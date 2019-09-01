@@ -18,25 +18,32 @@ body {
 
 .dark-introduction {
 
-background-image: url('../img/now_imac.png');
-background-size: cover;
-margin-top: 5rem;
-padding-top: 30rem;
-margin-bottom: 10rem;
-height: 65rem;
+// background-image: url('../img/solo3.png');
+    margin-left: auto;
+    margin-right: auto;
+   
+    z-index: -3;
+    background-size: cover;
+// background-size: cover;
+// margin-top: 5rem;
+// padding-top: 30rem;
+// margin-bottom: 10rem;
+        width: 369px;
+    height: 526px;
+// height: inherit;
 
-@media (min-width: 400px) { height: 4rem; }
-// Small devices (landscape phones, 576px and up)
-@media (min-width: 576px) { height: 10rem; }
+// @media (min-width: 400px) { height: 4rem; }
+// // Small devices (landscape phones, 576px and up)
+// @media (min-width: 576px) { height: 10rem; }
 
-// Medium devices (tablets, 768px and up)
-@media (min-width: 768px) { height: 20rem; }
+// // Medium devices (tablets, 768px and up)
+// @media (min-width: 768px) { height: 20rem; }
 
-// Large devices (desktops, 992px and up)
-@media (min-width: 992px) { height: 30rem; }
+// // Large devices (desktops, 992px and up)
+// @media (min-width: 992px) { height: 30rem; }
 
-// Extra large devices (large desktops, 1200px and up)
-@media (min-width: 1200px) { height: 53rem; }
+// // Extra large devices (large desktops, 1200px and up)
+// @media (min-width: 1200px) { height: 20rem; }
 
 
 }
