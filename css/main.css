@@ -1,6 +1,11 @@
 @import url(palette.css);
+@import url("https://fonts.googleapis.com/css?family=Teko:700|Work+Sans:200&display=swap");
 body {
   min-height: 1200px; }
+
+.hero_bg {
+  background-color: #d9d9d9;
+  height: 100vh; }
 
 .dark-introduction {
   background-image: url("../img/now_imac.png");
@@ -8,7 +13,7 @@ body {
   margin-top: 5rem;
   padding-top: 30rem;
   margin-bottom: 10rem;
-  height: 55rem; }
+  height: 65rem; }
   @media (min-width: 400px) {
     .dark-introduction {
       height: 4rem; } }
@@ -23,7 +28,7 @@ body {
       height: 30rem; } }
   @media (min-width: 1200px) {
     .dark-introduction {
-      height: 50rem; } }
+      height: 53rem; } }
 
 .nav_bg_style {
   background-color: #000000;
@@ -50,9 +55,11 @@ body {
 .jumbotron {
   margin-bottom: 0px; }
 
-.jumbo_container {
-  height: 100vh;
-  background-color: #000000; }
+.header_font_style {
+  font-family: 'Teko', sans-serif; }
+
+.body_font_style {
+  font-family: 'Work Sans', sans-serif; }
 
 .title_margin_style {
   padding-top: 3rem; }

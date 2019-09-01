@@ -11,7 +11,40 @@ $color5: hsla(204%, 42%, 27%, 1);
 $dark-foam: rgba(53, 53, 53, 1);
 $teal: rgba(60, 110, 113, 1);
 $white-foam: rgba(255, 255, 255, 1);
-$bubble-foam: rgba(217, 217, 217, 1);
+$bunny-foam: rgba(217, 217, 217, 1);
 $sea-foam: rgba(40, 75, 99, 1);
+$pink: rgb(255, 20, 147);
+
+.dark_foam {
+
+    color: $dark-foam;
+}
+
+.teal {
+
+    color: $teal;
+}
 
 
+.white_foam {
+
+    color: $white-foam;
+}
+
+
+.bunny_foam {
+
+    color: $bunny-foam;
+}
+
+
+.sea_foam {
+
+    color: $sea-foam;
+}
+
+.pink {
+
+    color: $pink;
+}
+   
