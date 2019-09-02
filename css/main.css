@@ -4,12 +4,13 @@ body {
   min-height: 1200px; }
 
 .hero_bg {
-  background-color: #d9d9d9;
-  height: 100vh; }
+  background-color: #d9d9d9; }
 
 .dark-introduction {
   margin-left: auto;
   margin-right: auto;
+  display: flex;
+  justify-content: center;
   z-index: -3;
   background-size: cover;
   width: 369px;
